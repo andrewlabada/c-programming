@@ -159,25 +159,6 @@
                 
 
                 
-
-
-
-
-
-
-
-
-
-    /* 
-        
-                        ::::algo::::
-
-                        if array is empty get string name
-                            
-                        check ang array if the name exists
-                        dayun
-
-    */
                                 /*for (int i = 0; i < studentCount; i++)
                                 {
                                     if (strcmp(names[i],studentNames[i]) == 0)
